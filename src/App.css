@@ -1,0 +1,35 @@
+
+.main.dark {
+    background-color: black;
+    color: white;
+}
+
+.main {
+    background-color: antiquewhite; 
+    color: black; 
+  }
+  
+
+.Toggle{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10vh;
+}
+
+.main{
+    align-items: center;
+    text-align: center;
+}
+
+.Toggle, .text{
+    margin-bottom: 5vh;
+    
+}
+
+.likeBtn{
+    margin-left: 5vh;
+}
+
+
+
+
